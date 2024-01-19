@@ -11,3 +11,9 @@ Today I am also studying a degree in Computer Science at the University of Bras√
 I'm looking to collaborate on open source projects and to learn more about software development. I'm also open to job opportunities.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyata/).
+
+**Skills**
+Web Development, Software Engineering, Java, SpringBoot, Python, Flask and microservices.
+
+**Tools**
+icon:java icon:python icon:springboot
