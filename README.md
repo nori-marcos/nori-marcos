@@ -15,10 +15,5 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyat
 <h2>My Skills</h2>
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,spring,flask,vue)](https://skillicons.dev)
 
-<h2>My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosnm&show_icons=true&theme=dracula" alt="Marcos' GitHub Stats" />
-</p>
-
 
 
