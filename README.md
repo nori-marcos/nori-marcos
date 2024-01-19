@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1> 
+# Hi there 👋
 
 I'm Marcos, a software developer from Brazil. I'm currently working as a backend developer at LuizaLabs, the innovation and technology unit of Magazine Luiza. This company is one of the largest retail companies in Brazil and is listed on the New York Stock Exchange (NYSE: MGLU3).
 
@@ -12,6 +12,7 @@ I'm looking to collaborate on open source projects and to learn more about softw
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyata/) or by [Email](mailto:marcos.noriyuki.miyata@gmail.com).
 
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,flask,vue)](https://skillicons.dev)
 
 
