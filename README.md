@@ -16,4 +16,5 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyat
 Web Development, Software Engineering, Java, SpringBoot, Python, Flask and microservices.
 
 **Tools**
-icon::fa_java(animete = "spin")
+<i class="fab fa-github"></i>
+
