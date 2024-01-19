@@ -12,9 +12,7 @@ I'm looking to collaborate on open source projects and to learn more about softw
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyata/).
 
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-
-Web Development, Software Engineering, Java, SpringBoot, Python, Flask and microservices.
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,spring,flask,vue)](https://skillicons.dev)
 
 **Tools**
 
