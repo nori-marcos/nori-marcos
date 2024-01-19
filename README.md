@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi there 👋</h1> 
 
-I'm Marcos Nori, a software developer from Brazil. I'm currently working as a backend developer at LuizaLabs, the innovation and technology unit of Magazine Luiza. This company is one of the largest retail companies in Brazil and is listed on the New York Stock Exchange (NYSE: MGLU3).
+I'm Marcos, a software developer from Brazil. I'm currently working as a backend developer at LuizaLabs, the innovation and technology unit of Magazine Luiza. This company is one of the largest retail companies in Brazil and is listed on the New York Stock Exchange (NYSE: MGLU3).
 
 I went through a career transition, migrating from International Relations to Computer Science. Because of this experience, I believe that technology can be learned by anyone and that it can be a powerful tool for social, economic and political transformation.
 
@@ -16,4 +16,4 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyat
 Web Development, Software Engineering, Java, SpringBoot, Python, Flask and microservices.
 
 **Tools**
-[<i class="fab fa-github"></i> SeuNome no GitHub](URL do seu perfil no GitHub)
+
