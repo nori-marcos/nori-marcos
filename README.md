@@ -10,9 +10,10 @@ Today I am also studying a degree in Computer Science at the University of Bras√
 
 I'm looking to collaborate on open source projects and to learn more about software development. I'm also open to job opportunities.
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyata/).
+You can reach me on 
 
+[[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/marcos-noriyuki-miyata/).
+
+<h2>My Skills</h2>
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,spring,flask,vue)](https://skillicons.dev)
-
-**Tools**
 
