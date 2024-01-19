@@ -16,4 +16,4 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/marcos-noriyuki-miyat
 Web Development, Software Engineering, Java, SpringBoot, Python, Flask and microservices.
 
 **Tools**
-<i class="fa-brands fa-java"></i>
+[<i class="fab fa-github"></i> SeuNome no GitHub](URL do seu perfil no GitHub)
